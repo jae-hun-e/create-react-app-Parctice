@@ -1,0 +1,8 @@
+// 상대경로를 절대경로로 지정
+
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
